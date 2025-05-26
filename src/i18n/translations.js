@@ -1,7 +1,7 @@
 export const translations = {
   en: {
     order_history: "Order histroy",
-    main_title: "Amal's meals",
+    main_title: "Your meals",
     cart_button: "Your cart",
     main_description_h2: "Delicious Food, Delivered To You",
     main_description_p1: `Choose your favorite meal from our broad selection of available meals 
